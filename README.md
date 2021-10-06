@@ -1,3 +1,3 @@
 # leetcode
 
-- [two sum](../two_sum.md)
+- [two sum](two_sum.md)
